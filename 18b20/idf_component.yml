@@ -15,7 +15,7 @@ targets:
 # Files and directories
 files:
   src:
-    - "src/18b20.c"
+    - "18b20.c"
   include:
     - "include/18b20.h"
 
