@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include "18b20.h"
-// my_component/src/my_component.c
 
-#include "my_component.h"
-#include "esp_log.h"
 
 static const char *TAG = "my_component";
 
