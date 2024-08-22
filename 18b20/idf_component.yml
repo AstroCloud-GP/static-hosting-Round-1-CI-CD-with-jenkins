@@ -1,6 +1,6 @@
 # example_project/components/my_component/idf_component.yml
 
-name: "my_component"
+name: "18b20"
 version: "1.0.0"
 description: "A mock component for demonstrating ESP-IDF component structure."
 
