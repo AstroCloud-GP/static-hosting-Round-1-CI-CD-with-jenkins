@@ -22,7 +22,7 @@ CMD ["nginx", "-g", "daemon off;"]
 
 
 ## to make an image for example
-## sudo docker build --build-arg REPO_URL=REPO_URL -t IMAGE_TAG .
+## sudo docker build --build-arg REPO_URL=USER_GITHUB_REPO_URL -t IMAGE_TAG .
 
 ## to run image make a container for example
 ## sudo docker run -d -p CONATINER_PORT:80 <IMAGE_TAG>
