@@ -1,0 +1,81 @@
+
+ */
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    line-height: 1;
+    font-weight: 400;
+    color: #8a8a8a;
+  }
+  
+  html {
+    font: 62.5%;
+  }
+  .section-heading {
+    background-color: rgb(50, 35, 87);
+    height: 100vh;
+    padding: 3.2rem 2.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+ 
+  h1 {
+    font-size: 3rem;
+    line-height: 1.2;
+    letter-spacing: -0.5px;
+    margin-bottom: 1.3rem;
+  }
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 4.9rem;
+    color: rgb(251, 242, 242);
+  }
+  
+  /* .img {
+    width: 100%;
+    border-radius: 5px;
+  } */
+  
+  /* Style for the label */
+  .label-input {
+    font-size: 1.2rem;
+    color: #e90101;
+    display: inline-block;
+    width: 10rem;
+    margin-bottom: 1.8rem;
+  }
+  
+  /* Style for the text input */
+  .input-field {
+    padding: 8px;
+    font-size: 14px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    width: 250px;
+  }
+  
+  /* Style for the submit button */
+  .submit-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    /* margin-left: 8rem; */
+    margin-left: 19%;
+  }
+  
+  /* Hover effect for the submit button */
+  .submit-button:hover {
+    background-color: #45a049;
+  }
+  
