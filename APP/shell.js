@@ -13,7 +13,7 @@ app.listen(3000, () => {
     console.log("app is listening on port 3000!!");
 });
 
-// Create a single instance of the user number generator
+// Create a single instance of the user number generator (we've used mongoDB but due to installation problems on somaya's device, we made a simple way) 
 const createUserNo = (() => {
     let counter = 1;  // Variable inside the closure
 
