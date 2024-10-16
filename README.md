@@ -1,4 +1,4 @@
-**Static hosting with Docker and Jenkins PoC  **
+**Static hosting with Docker and Jenkins PoC**
 **Github Link**: https://github.com/Somaya-Ayman/static-hosting
 **Team**: Somaya, Menna, Sara
 
