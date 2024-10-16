@@ -19,18 +19,6 @@ Showcasing:
 
 - **Node.js Backend**  
   A backend written in Node.js manages the dynamic deployment of containers and Jenkins pipelines. Express.js is used to handle incoming requests, generate Docker containers, and initiate the Jenkins pipeline.
-
-**Demo Video** 
-**Static hosting with Docker and Jenkins PoC  **
-**Github Link**: https://github.com/Somaya-Ayman/static-hosting
-**Team**: Somaya, Menna, Sara
-
-Showcasing:
-- **Dynamic User and Port Allocation**  
-- **Automated Docker Container Creation**  
-- **Jenkins Pipeline Automation**  
-- **Custom NGINX Hosting**  
-- **Node.js Backend**  
   
 **Demo Video** 
 [Meeting in _General_-20241015_213538-Meeting Recording.mp4](https://engasuedu.sharepoint.com/:v:/s/MMS123/Ee_GRoD__uhHshe-ziYCciEBCeJMknfM_-AAPYY0As6q8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tb68sd) 
