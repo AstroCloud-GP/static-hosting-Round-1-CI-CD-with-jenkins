@@ -1,4 +1,5 @@
 const fs = require('fs');
+const express = require('express');
 var shell = require('shelljs');
 const ngrok = require('ngrok');
 const app = express();
@@ -119,7 +120,7 @@ const createJenkins = async (github_repo, container_name, portToUse) => {
     }
 
     // Construct the URL with the dynamic port
-    const url = `http://192.168.1.10:${portToUse}/`;
+    const url = `http://102.37.146.184:${portToUse}/`;
     return url;
 };
 
